@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Obstacle
+  - Bullet
+  - Border
+  - Life Up
+  - Speed Up
+  - Minigun
+  - Shield Up
+  - Shield
+  - Enemy Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backround Lowest Layer
+    uniqueID: 1078855987
+    locked: 0
+  - name: Backround Mid Layer
+    uniqueID: 2641545075
+    locked: 0
+  - name: Backround High Layer
+    uniqueID: 1786227421
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 0
+    uniqueID: 1230667303
+    locked: 0
+  - name: Layer 1
+    uniqueID: 3172100469
+    locked: 0
+  - name: Placeholder
+    uniqueID: 2531742431
+    locked: 0
+  - name: Placeholder
+    uniqueID: 3866413863
+    locked: 0
+  - name: UI
+    uniqueID: 1093760673
+    locked: 0
